@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_padding">12dp</dimen>
+    <dimen name="result_margin_padding">16dp</dimen>
+
+    <dimen name="password_strength_indicator_height">24dp</dimen>
+    <dimen name="copy_button_padding">8dp</dimen>
+    <dimen name="vertical_margin">8dp</dimen>
+
+
+</resources>
